@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    max-width: 1100px;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    color: gray;
+    font-weight: 100;
+}
+
+nav ul li:hover {
+    color: rgb(30, 119, 202);
+    cursor: pointer;
+}
+
+main div img {
+    width: 100%;
+    margin-top: 60px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: 300;
+}
+
+p {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+button {
+    background-color: rgb(30, 119, 202);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+main div h1 {
+    margin-top: 60px;
+    text-align: center;
+}
+
+main div p {
+    text-align: center;
+    margin-top: 20px;
+}
+
+main div button {
+    display: block;
+    margin: 30px auto;
+    font-size: 22px;
+}
+
+#select-me {
+    text-align: left;
+}
+
+#para-select {
+    text-align: left;
+    font-size: 18px;
+    color: gray;
+}
+
+.two-col {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.two-col img {
+    width: 60%;
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>VS-Code</title>
+        <link rel="stylesheet" href="style.css" />
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    </head>
+    <body class="container mx-auto" style="margin: 0px auto">
+        <nav class="flex justify-between" style="padding-top: 10px">
+            <!-- left -->
+            <div class="flex gap-3" style="align-items: center">
+                <div class="flex gap-3" style="align-items: center">
+                    <img
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
+                        alt="vs code"
+                        width="30px"
+                    />
+                    <span>Visual Studio Code</span>
+                </div>
+                <ul class="flex gap-6">
+                    <li>Docs</li>
+                    <li>Updates</li>
+                    <li>Blog</li>
+                    <li>API</li>
+                    <li>Extensions</li>
+                    <li>MCP</li>
+                    <li>FAQ</li>
+                </ul>
+            </div>
+            <!-- right -->
+            <div>
+                <input
+                    type="text"
+                    name="search"
+                    id="search"
+                    placeholder="Search Docs"
+                    style="padding: 0px 5px; border-radius: 3px"
+                />
+                <button
+                    class="bg-blue-400 rounded-sm"
+                    style="padding: 0px 10px"
+                >
+                    Download
+                </button>
+            </div>
+        </nav>
+        <main
+            class="flex justify-center items-center flex-col"
+            style="margin: 0px auto"
+        >
+            <!-- hero section -->
+            <section
+                class="max-w-2xl flex flex-col items-center text-center"
+                style="margin-top: 50px"
+            >
+                <h1 style="font-size: 80px; font-weight: 700">
+                    The open source AI code editor
+                </h1>
+                <div class="bg-[#1B1F25] rounded-lg" style="padding: 15px">
+                    <button
+                        class="bg-white text-black rounded-sm"
+                        style="padding: 8px"
+                    >
+                        Download for linux (.deb)
+                    </button>
+                    <button
+                        class="bg-white text-black rounded-sm"
+                        style="padding: 8px"
+                    >
+                        Download for linux (.rpm)
+                    </button>
+                    <p>Web, Insiders edition, or other platforms</p>
+                    <p>
+                        By using VS Code, you agree to its license and privacy
+                        statement.
+                    </p>
+                </div>
+            </section>
+            <img src="./hero.png" alt="hero img" style="margin-top: 20px" />
+        </main>
+    </body>
+</html>
