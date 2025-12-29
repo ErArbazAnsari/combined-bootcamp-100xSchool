@@ -1,0 +1,9 @@
+// Write a function that finds the sum of two numbers
+// Write another function that displays this result in a pretty format
+
+function findSum(a, b) {
+    return `your ans for ${a} + ${b} = ${a + b}`;
+}
+
+console.log(findSum(10, 20));
+console.log(findSum(500, 23));
