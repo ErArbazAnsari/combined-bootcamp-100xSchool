@@ -1,0 +1,3 @@
+https://www.notion.so/arbazansari/L02-Javascript-2f123f377374806d8b91e6028e155688?source=copy_link
+
+browser only understand -> html,css,js, and webassembly (it is very impo.)
