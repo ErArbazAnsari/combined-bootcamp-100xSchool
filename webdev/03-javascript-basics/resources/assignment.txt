@@ -3,5 +3,7 @@ https://www.notion.so/arbazansari/Course-Selling-API-Coding-Assignment-2f123f377
 hotel booking=> https://www.notion.so/arbazansari/Hotel-Booking-Platform-Backend-Assignment-2f323f3773748160b041ec6ca5c8cddf?source=copy_link
 
 hotel booking => tests => https://github.com/rahul-MyGit/hotel-contest-test.git
+course selling => tests => https://github.com/100xdevs-bootcamp-1/course-selling-assignment-tests
+https://brindle-goal-102.notion.site/Course-Selling-API-Coding-Assignment-2f146b36b2e980df9fe4c5856f08d4bc
 
 https://github.com/100xdevs-bootcamp-1/JavaScript-Assignments
