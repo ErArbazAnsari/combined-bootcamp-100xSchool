@@ -1,0 +1,153 @@
+export const users = [
+    {
+        id: 1,
+        username: "john_dev",
+        password: "pass123",
+    },
+    {
+        id: 2,
+        username: "sarah_designer",
+        password: "secure456",
+    },
+    {
+        id: 3,
+        username: "mike_pm",
+        password: "project789",
+    },
+    {
+        id: 4,
+        username: "emma_dev",
+        password: "code101112",
+    },
+];
+export const organizations = [
+    {
+        id: 1,
+        title: "StartupXYZ",
+        description: "A cutting-edge tech startup focused on AI solutions",
+        admin: 1,
+        members: [1, 2, 4],
+    },
+    {
+        id: 2,
+        title: "DesignStudio",
+        description: "Creative design agency for digital products",
+        admin: 2,
+        members: [2, 3],
+    },
+    {
+        id: 3,
+        title: "TechCorp",
+        description: "Enterprise software development company",
+        admin: 3,
+        members: [3, 1, 4],
+    },
+];
+export const boards = [
+    { id: 1, title: "Frontend Development", organizationId: 1 },
+    { id: 2, title: "Backend APIs", organizationId: 1 },
+    { id: 3, title: "Brand Identity", organizationId: 2 },
+    { id: 4, title: "Mobile App", organizationId: 2 },
+    { id: 5, title: "Cloud Infrastructure", organizationId: 3 },
+    { id: 6, title: "Security Updates", organizationId: 3 },
+];
+export const issues = [
+    {
+        id: 1,
+        title: "Fix responsive design",
+        boardId: 1,
+        state: "IN_PROGRESS",
+        priority: "HIGH",
+    },
+    {
+        id: 2,
+        title: "Implement dark mode",
+        boardId: 1,
+        state: "PENDING",
+        priority: "MEDIUM",
+    },
+    {
+        id: 3,
+        title: "Add form validation",
+        boardId: 1,
+        state: "DONE",
+        priority: "HIGH",
+    },
+    {
+        id: 4,
+        title: "Create user authentication API",
+        boardId: 2,
+        state: "IN_PROGRESS",
+        priority: "HIGH",
+    },
+    {
+        id: 5,
+        title: "Database optimization",
+        boardId: 2,
+        state: "PENDING",
+        priority: "MEDIUM",
+    },
+    {
+        id: 6,
+        title: "Setup API documentation",
+        boardId: 2,
+        state: "DONE",
+        priority: "LOW",
+    },
+    {
+        id: 7,
+        title: "Choose color palette",
+        boardId: 3,
+        state: "DONE",
+        priority: "HIGH",
+    },
+    {
+        id: 8,
+        title: "Design landing page",
+        boardId: 3,
+        state: "IN_PROGRESS",
+        priority: "HIGH",
+    },
+    {
+        id: 9,
+        title: "Create icon set",
+        boardId: 4,
+        state: "PENDING",
+        priority: "MEDIUM",
+    },
+    {
+        id: 10,
+        title: "Setup push notifications",
+        boardId: 4,
+        state: "IN_PROGRESS",
+        priority: "MEDIUM",
+    },
+    {
+        id: 11,
+        title: "Configure AWS",
+        boardId: 5,
+        state: "DONE",
+        priority: "HIGH",
+    },
+    {
+        id: 12,
+        title: "Setup CI/CD pipeline",
+        boardId: 5,
+        state: "IN_PROGRESS",
+        priority: "HIGH",
+    },
+    {
+        id: 13,
+        title: "Implement SSL certificate",
+        boardId: 6,
+        state: "PENDING",
+        priority: "HIGH",
+    },
+    {
+        id: 14,
+        title: "Security audit review",
+        boardId: 6,
+        state: "IN_PROGRESS",
+        priority: "HIGH",
+    },
+];
