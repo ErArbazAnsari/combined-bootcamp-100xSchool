@@ -1,0 +1,1 @@
+/home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/rust-bootcamp-yt/part-1/06-stack-vs-heap/stack_vs_heap/target/debug/stack_vs_heap: /home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/rust-bootcamp-yt/part-1/06-stack-vs-heap/stack_vs_heap/src/main.rs
