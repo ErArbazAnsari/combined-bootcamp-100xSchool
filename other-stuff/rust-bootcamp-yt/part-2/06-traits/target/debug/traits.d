@@ -1,0 +1,1 @@
+/home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/rust-bootcamp-yt/part-2/06-traits/target/debug/traits: /home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/rust-bootcamp-yt/part-2/06-traits/src/main.rs
