@@ -1,0 +1,1 @@
+/home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/rust-bootcamp-yt/part-2/08-multi-threading/target/debug/multi-threading: /home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/rust-bootcamp-yt/part-2/08-multi-threading/src/main.rs
