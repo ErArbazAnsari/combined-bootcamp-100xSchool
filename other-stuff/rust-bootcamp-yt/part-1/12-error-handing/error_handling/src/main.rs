@@ -1,8 +1,13 @@
-use std::fs;
+use std::fs::read_to_string;
 
 // enum Result<T, E> {
 //     Ok(T),
 //     Err(E),
+// }
+
+// enum Option<T>{
+//
+//     None,
 // }
 
 fn main() {

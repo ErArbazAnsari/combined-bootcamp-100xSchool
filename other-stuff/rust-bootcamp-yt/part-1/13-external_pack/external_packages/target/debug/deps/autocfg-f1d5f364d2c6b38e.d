@@ -1,0 +1,10 @@
+/home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/rust-bootcamp-yt/part-1/13-external_pack/external_packages/target/debug/deps/autocfg-f1d5f364d2c6b38e.d: /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/rust-bootcamp-yt/part-1/13-external_pack/external_packages/target/debug/deps/libautocfg-f1d5f364d2c6b38e.rlib: /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/rust-bootcamp-yt/part-1/13-external_pack/external_packages/target/debug/deps/libautocfg-f1d5f364d2c6b38e.rmeta: /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs:
+/home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs:
+/home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs:
+/home/arbaz/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs:
