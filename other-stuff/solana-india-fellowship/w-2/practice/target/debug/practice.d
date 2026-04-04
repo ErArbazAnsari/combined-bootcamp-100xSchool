@@ -1,1 +1,0 @@
-/home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/solana-india-fellowship/w-2/practice/target/debug/practice: /home/arbaz/Desktop/combined-bootcamp-100xSchools/combined-bootcamp/other-stuff/solana-india-fellowship/w-2/practice/src/main.rs
